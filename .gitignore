@@ -1,0 +1,26 @@
+#Backend
+backend/venv/
+backend/__pychace__/
+*.pyc
+
+#Frontend
+frontend/node_modules/
+frontend/dist
+
+#OS
+.DS_Store
+
+#Environment
+.env
+
+# IDE
+backend/.idea/
+
+# Database
+backend/database/
+
+# Uploaded files
+backend/storage/uploads/
+
+# Models (optional)
+backend/models/*.pkl
